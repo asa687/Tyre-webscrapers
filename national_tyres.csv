@@ -1,107 +1,106 @@
-pattern,price
-ZV7,£72.99
-EfficientGrip Performance 2,£92.99
-Turanza 6,£98.99
-Smart Chaser SC1,£48.99
-Atrezzo Elite 2,£64.99
-Nankang Eco-2+,£68.99
-ZV7,£74.99
-Nankang AS-2+,£76.99
-Ventus Prime 4 K135,£86.99
-ZV7,£87.99
-ATREZZO ZSR 2,£87.99
-Kinergy Eco 2 K435,£92.99
-Ventus Prime 4 K135,£92.99
-Kinergy 435 Eco2,£92.99
-Ventus Prime 4 K135,£95.99
-WX7 Winter,£95.99
-AS7,£96.99
-Kinergy 4S2 H750,£99.99
-WX7 Winter,£100.99
-Kinergy 4S2 H750,£103.99
-Kinergy 4S2 H750,£103.99
-Ventus Prime 4 K135,£106.99
-Ventus Prime 3 K125,£109.99
-Ventus Prime 3 K125,£115.99
-Ventus Prime 4 K135,£150.99
-Hankook iON ST AS,£164.99
-SP Sport BluResponse,£81.99
-SP Sport BluResponse,£84.99
-SP Sport BluResponse,£89.99
-EfficientGrip Performance,£94.99
-EfficientGrip Performance,£94.99
-Cinturato P7,£95.99
-EfficientGrip Performance,£95.99
-Vector 4Seasons Gen 3,£95.99
-SP Sport BluResponse,£95.99
-EfficientGrip Performance 2,£97.99
-EfficientGrip Performance 2,£97.99
-EfficientGrip Performance,£98.99
-Turanza 6,£99.99
-Turanza 6,£100.99
-EfficientGrip Performance,£101.99
-Vector 4Seasons Gen 3,£102.99
-ContiEcoContact 6,£102.99
-ContiEcoContact 5,£102.99
-ContiEcoContact 5,£102.99
-Primacy 4,£103.99
-ePrimacy,£103.99
-ContiEcoContact 5,£103.99
-ContiEcoContact 5,£103.99
-Turanza T005,£103.99
-Vector 4Seasons Gen-2,£103.99
-UltraContact,£104.99
-EfficientGrip Performance 2,£105.99
-Vector 4Seasons,£105.99
-Turanza ER300,£105.99
-PremiumContact 7,£105.99
-ContiEcoContact 6,£105.99
-PremiumContact 7,£106.99
-All Season Contact 2,£106.99
-ContiPremiumContact 2,£106.99
-ContiEcoContact 6,£106.99
-Turanza ER300A,£106.99
-Vector 4Seasons Gen-2,£106.99
-EfficientGrip Performance 2,£106.99
-UltraContact,£106.99
-CrossClimate 2,£108.99
-Sport Maxx TT,£108.99
-Cinturato P7,£109.99
-UltraContact,£110.99
-All Season Contact 2,£110.99
-ContiEcoContact 6,£110.99
-CrossClimate +,£112.99
-Turanza T005,£113.99
-All Season Contact 2,£113.99
-UltraContact,£113.99
-Vector 4Seasons Gen 3,£113.99
-ContiEcoContact 6,£114.99
-Energy Saver +,£114.99
-ePrimacy,£115.99
-Turanza 6,£115.99
-Turanza T005,£116.99
-Sport Maxx RT,£117.99
-Cinturato All Season SF3,£117.99
-Cinturato P7,£118.99
-ContiEcoContact 5 SEAL,£119.99
-All Season Contact 2,£119.99
-ePrimacy,£119.99
-Michelin ePrimacy S1,£119.99
-CrossClimate 2,£119.99
-All Season Contact 2,£120.99
-Vector 4Seasons Gen-2,£122.99
-Turanza T005 DriveGuard,£123.99
-eContact,£124.99
-ContiEcoContact 6,£124.99
-CrossClimate 2,£124.99
-Primacy 4,£127.99
-WinterContact TS870,£128.99
-Turanza T005,£131.99
-Turanza ER300,£132.99
-ContiPremiumContact,£132.99
-Primacy 3,£132.99
-Pilot Sport 4,£133.99
-Primacy 3,£135.99
-ContiEcoContact 6,£138.99
-Cinturato C3,£149.99
-P Zero Rosso,£172.99
+Website,Name,Width,Aspect ratio,Rim size,Pattern,Price
+https://www.national.co.uk,Avon Tyres,205,55,16,ZV7,£72.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance 2,£92.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza 6,£98.99
+https://www.national.co.uk,Autogreen Tyres,205,55,16,Smart Chaser SC1,£48.99
+https://www.national.co.uk,Sailun Tyres,205,55,16,Atrezzo Elite 2,£64.99
+https://www.national.co.uk,Nankang Tyres,205,55,16,Nankang Eco-2+,£68.99
+https://www.national.co.uk,Avon Tyres,205,55,16,ZV7,£74.99
+https://www.national.co.uk,Nankang Tyres,205,55,16,Nankang AS-2+,£76.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Ventus Prime 4 K135,£86.99
+https://www.national.co.uk,Sailun Tyres,205,55,16,ATREZZO ZSR 2,£87.99
+https://www.national.co.uk,Avon Tyres,205,55,16,ZV7,£87.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Kinergy Eco 2 K435,£92.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Ventus Prime 4 K135,£92.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Kinergy 435 Eco2,£92.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Ventus Prime 4 K135,£95.99
+https://www.national.co.uk,Avon Tyres,205,55,16,WX7 Winter,£95.99
+https://www.national.co.uk,Avon Tyres,205,55,16,AS7,£96.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Kinergy 4S2 H750,£99.99
+https://www.national.co.uk,Avon Tyres,205,55,16,WX7 Winter,£100.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Kinergy 4S2 H750,£103.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Kinergy 4S2 H750,£103.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Ventus Prime 4 K135,£106.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Ventus Prime 3 K125,£109.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Ventus Prime 3 K125,£115.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Ventus Prime 4 K135,£150.99
+https://www.national.co.uk,Hankook Tyres,205,55,16,Hankook iON ST AS,£164.99
+https://www.national.co.uk,Dunlop Tyres,205,55,16,SP Sport BluResponse,£81.99
+https://www.national.co.uk,Dunlop Tyres,205,55,16,SP Sport BluResponse,£84.99
+https://www.national.co.uk,Dunlop Tyres,205,55,16,SP Sport BluResponse,£89.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance,£94.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance,£94.99
+https://www.national.co.uk,Pirelli Tyres,205,55,16,Cinturato P7,£95.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance,£95.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,Vector 4Seasons Gen 3,£95.99
+https://www.national.co.uk,Dunlop Tyres,205,55,16,SP Sport BluResponse,£95.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance 2,£97.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance 2,£97.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance,£98.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza 6,£99.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza 6,£100.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance,£101.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,Vector 4Seasons Gen 3,£102.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 6,£102.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 5,£102.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 5,£102.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,Primacy 4,£103.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 5,£103.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 5,£103.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza T005,£103.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,Vector 4Seasons Gen-2,£103.99
+https://www.national.co.uk,Continental Tyres,205,55,16,UltraContact,£104.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance 2,£105.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,Vector 4Seasons,£105.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza ER300,£105.99
+https://www.national.co.uk,Continental Tyres,205,55,16,PremiumContact 7,£105.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 6,£105.99
+https://www.national.co.uk,Continental Tyres,205,55,16,PremiumContact 7,£106.99
+https://www.national.co.uk,Continental Tyres,205,55,16,All Season Contact 2,£106.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiPremiumContact 2,£106.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 6,£106.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza ER300A,£106.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,Vector 4Seasons Gen-2,£106.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,EfficientGrip Performance 2,£106.99
+https://www.national.co.uk,Continental Tyres,205,55,16,UltraContact,£106.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,CrossClimate 2,£108.99
+https://www.national.co.uk,Dunlop Tyres,205,55,16,Sport Maxx TT,£108.99
+https://www.national.co.uk,Pirelli Tyres,205,55,16,Cinturato P7,£109.99
+https://www.national.co.uk,Continental Tyres,205,55,16,UltraContact,£110.99
+https://www.national.co.uk,Continental Tyres,205,55,16,All Season Contact 2,£110.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 6,£110.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,CrossClimate +,£112.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza T005,£113.99
+https://www.national.co.uk,Continental Tyres,205,55,16,All Season Contact 2,£113.99
+https://www.national.co.uk,Continental Tyres,205,55,16,UltraContact,£113.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,Vector 4Seasons Gen 3,£113.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,Energy Saver +,£114.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 6,£114.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,ePrimacy,£115.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza 6,£115.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza T005,£116.99
+https://www.national.co.uk,Pirelli Tyres,205,55,16,Cinturato All Season SF3,£117.99
+https://www.national.co.uk,Dunlop Tyres,205,55,16,Sport Maxx RT,£117.99
+https://www.national.co.uk,Pirelli Tyres,205,55,16,Cinturato P7,£118.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 5 SEAL,£119.99
+https://www.national.co.uk,Continental Tyres,205,55,16,All Season Contact 2,£119.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,ePrimacy,£119.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,Michelin ePrimacy S1,£119.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,CrossClimate 2,£119.99
+https://www.national.co.uk,Continental Tyres,205,55,16,All Season Contact 2,£120.99
+https://www.national.co.uk,Goodyear Tyres,205,55,16,Vector 4Seasons Gen-2,£122.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza T005 DriveGuard,£123.99
+https://www.national.co.uk,Continental Tyres,205,55,16,eContact,£124.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 6,£124.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,CrossClimate 2,£124.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,Primacy 4,£127.99
+https://www.national.co.uk,Continental Tyres,205,55,16,WinterContact TS870,£128.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza T005,£131.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,Primacy 3,£132.99
+https://www.national.co.uk,Bridgestone Tyres,205,55,16,Turanza ER300,£132.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiPremiumContact,£132.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,Pilot Sport 4,£133.99
+https://www.national.co.uk,Michelin Tyres,205,55,16,Primacy 3,£135.99
+https://www.national.co.uk,Continental Tyres,205,55,16,ContiEcoContact 6,£138.99
+https://www.national.co.uk,Pirelli Tyres,205,55,16,Cinturato C3,£149.99
+https://www.national.co.uk,Pirelli Tyres,205,55,16,P Zero Rosso,£172.99
