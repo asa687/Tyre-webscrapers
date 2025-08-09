@@ -30,9 +30,7 @@ for price in prices:
 for pattern in patterns:   
     formattedPatterns.append(pattern.text) 
 
-
- 
-
+# Create a CSV file and write the header and data
 with open(csv_file, 'w', newline='') as file:
     writer = csv.DictWriter(file, fieldnames=['Website', 'Name', 'Width', 'Aspect ratio', 'Rim size', 'Pattern', 'Price'])
     writer.writeheader()
