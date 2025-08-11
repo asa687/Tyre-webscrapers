@@ -5,7 +5,10 @@ from bs4 import BeautifulSoup
 import numpy as np 
 import csv
 import time 
-import random 
+import random  
+import datetime
+
+currTime = datetime.datetime.now()
 
 def split_first(text):
     # strip leading/trailing whitespace, then split into at most 2 parts
@@ -46,7 +49,7 @@ def Tyre_database_national(site, append, width, aspectRatio, rimSize, postcode, 
 
     # Create a CSV file and write the header and data
     with open(csv_file, 'a', newline='') as file:  
-        writer = csv.DictWriter(file, fieldnames=['Website', 'Name', 'Width', 'Aspect ratio', 'Rim size', 'Pattern', 'Price'])
+        writer = csv.DictWriter(file, fieldnames=['Website', 'Name', 'Width', 'Aspect ratio', 'Rim size', 'Pattern', 'Price', 'Time'])
         if isHeader:
             writer.writeheader()
         for i in range(0, len(formattedPrice)):    
@@ -56,7 +59,7 @@ def Tyre_database_national(site, append, width, aspectRatio, rimSize, postcode, 
             brandName = img_tag.get('alt')
 
             res = " ".join(str(formattedPrice[i]).split())
-            row = {'Website' : str(site), 'Name' : str(brandName), 'Width' : str(width) , 'Aspect ratio' : str(aspectRatio) , 'Rim size' : str(rimSize) , 'Pattern' : str(formattedPatterns[i])  , 'Price' : str(res)}
+            row = {'Website' : str(site), 'Name' : str(brandName), 'Width' : str(width) , 'Aspect ratio' : str(aspectRatio) , 'Rim size' : str(rimSize) , 'Pattern' : str(formattedPatterns[i])  , 'Price' : str(res), 'Time' : str(currTime)}
             writer.writerow(row) 
 
     conn = sqlite3.connect('Tyres.db') 
@@ -95,12 +98,12 @@ def Tyre_database_blackcircles(site, append, width, aspectRatio, rimSize, postco
     
     # Create a CSV file and write the header and data
     with open(csv_file, 'a', newline='') as file:  
-        writer = csv.DictWriter(file, fieldnames=['Website', 'Name', 'Width', 'Aspect ratio', 'Rim size', 'Pattern', 'Price'])
+        writer = csv.DictWriter(file, fieldnames=['Website', 'Name', 'Width', 'Aspect ratio', 'Rim size', 'Pattern', 'Price', 'Time'])
         if isHeader:
             writer.writeheader()
         for i in range(0, len(formattedPrice)):    
             res = " ".join(str(formattedPrice[i]).split())
-            row = {'Website' : str(site), 'Name' : str(formattedNames[i]), 'Width' : str(width) , 'Aspect ratio' : str(aspectRatio) , 'Rim size' : str(rimSize) , 'Pattern' : str(formattedPatterns[i])  , 'Price' : str(res)}
+            row = {'Website' : str(site), 'Name' : str(formattedNames[i]), 'Width' : str(width) , 'Aspect ratio' : str(aspectRatio) , 'Rim size' : str(rimSize) , 'Pattern' : str(formattedPatterns[i])  , 'Price' : str(res), 'Time' : str(currTime)}
             writer.writerow(row) 
 
     conn = sqlite3.connect('Tyres.db') 
